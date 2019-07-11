@@ -1,3 +1,3 @@
 # youtube_page
-Youtube Page
-simple project that is are clone the youtube page
+
+Description : The odin Project. The aim of the project to copy youtube page

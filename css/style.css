@@ -34,6 +34,10 @@ body {
 
 }
 
+iframe {
+  border: 0;
+}
+
 .nav-items-right {
   
     float: right;
@@ -239,6 +243,7 @@ body {
 
   
   .subscribe {
+  border:none;
   margin-top: -8rem;
   margin-left: 22rem;
     float:right;
