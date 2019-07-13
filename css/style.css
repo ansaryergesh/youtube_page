@@ -164,6 +164,7 @@ iframe {
   width: 35rem;
   
 }
+
 .btn-info {
   background-color: white;
   border:none;
@@ -189,7 +190,6 @@ iframe {
     
 
 .img-stat {
-  
   width: 2.2rem;
   height: 2.2rem;
   padding-right: .1rem;
@@ -197,7 +197,6 @@ iframe {
 
 .h-dots {
   padding-right: 0;
-
 }
 
   /* Publisher style */
